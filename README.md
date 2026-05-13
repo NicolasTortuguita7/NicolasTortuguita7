@@ -1,4 +1,4 @@
-<h1 align="center">Olá!👋, eu sou a Nicolas!</h1>
+<h1 align="center">Olá!👋, eu sou o Nicolas!</h1>
 
 <p align="center">
   💻 Cursando Técnico Desenvolvimento de Sistemas - SENAI <br>
